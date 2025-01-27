@@ -35,3 +35,13 @@
     width: 420px;
     height: 530px;
 }
+.water {
+    background-image: url('./images/water.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 90%;
+    height: 320px;
+    margin: auto;
+    border-radius: 30px;
+}
