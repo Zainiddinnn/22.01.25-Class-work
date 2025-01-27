@@ -11,3 +11,27 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.bg_img2 {
+    background-image: url('./images/1st.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 420px;
+    height: 530px;
+}
+.bg_img3 {
+    background-image: url('./images/2nd.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 420px;
+    height: 530px;
+}
+.bg_img4 {
+    background-image: url('./images/3rd.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 420px;
+    height: 530px;
+}
